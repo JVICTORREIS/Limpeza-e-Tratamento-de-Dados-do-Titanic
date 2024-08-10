@@ -1,4 +1,4 @@
-# Projeto Limpeza e Tratamento de Dados do Titanic
+# Limpeza e Tratamento de Dados do Titanic
 
 ## Introdução
 
